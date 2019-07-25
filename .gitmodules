@@ -1,0 +1,3 @@
+[submodule "rydanalysis"]
+	path = rydanalysis
+	url = https://github.com/RydbergQD/rydanalysis.git
